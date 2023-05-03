@@ -22,9 +22,9 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:amoshoo485@gmail.com
-  #  - name: WeChat
-     # value: YourWeChatUsername
-     # link: "#"
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
