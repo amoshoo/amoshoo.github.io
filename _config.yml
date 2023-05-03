@@ -5,7 +5,7 @@ title: Bay Jekyll Theme
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://amoshoo.github.io/zhili.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -21,24 +21,24 @@ footer:
   contact:
     - name: Email
       value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      link: mailto:amoshoo485@gmail.com
+   # - name: WeChat
+     # value: YourWeChatUsername
+     # link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+   # - name: Twitter
+    #  link: http://twitter.com/YourTwitterUsername
+    #  username: "@YourTwitterUsername"
+  #  - name: Facebook
+     # link: http://facebook.com/YourFacebookUsername
+   # - name: LinkedIn
+      #link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://github.com/amoshoo/
+   # - name: Dribbble
+     # link: https://dribbble.com/YourDribbbleUsername
+  #  - name: RSS
+     # link: /feed.xml
 
 # Build settings
 markdown: kramdown
