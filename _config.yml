@@ -22,23 +22,23 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:amoshoo485@gmail.com
-   # - name: WeChat
+  #  - name: WeChat
      # value: YourWeChatUsername
      # link: "#"
   follow:
-   # - name: Twitter
-    #  link: http://twitter.com/YourTwitterUsername
-    #  username: "@YourTwitterUsername"
-  #  - name: Facebook
-     # link: http://facebook.com/YourFacebookUsername
-   # - name: LinkedIn
-      #link: http://linkedin.com/in/YourLinkedInUsername
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+    - name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: https://github.com/amoshoo/
-   # - name: Dribbble
-     # link: https://dribbble.com/YourDribbbleUsername
-  #  - name: RSS
-     # link: /feed.xml
+    - name: Dribbble
+      link: https://dribbble.com/YourDribbbleUsername
+    - name: RSS
+      link: /feed.xml
 
 # Build settings
 markdown: kramdown
