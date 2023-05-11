@@ -49,14 +49,14 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 <br />
 
 ##### BASIC ELEMENTS
-* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S\quad =\quad\{s_{i}\}, i = 1,2,...,9$
+* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S\quad=\quad\{s_{i}\}, i = 1,2,...,9$
 * action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_{i}) = \{a_{i}\}$
 * state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $s_{1} \rightarrow s_{2}$
 * forbidden area: accessible (but with penalty); inaccessible
 * tabular representation: used to describe the state transition
-* state transition probability: $p\(s_{2} | s_{1}, a_{2}\) = 1$
+* state transition probability: $p\(s_{2}|s_{1},a_{2}\) = 1$
 * policy: policy tells the agent what actions to take at a state. e.g.$\pi \(a_{1} | s_{1}\)=0$, which can be represented by tabular representation
-* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $p \(r=-1 | s_{1}, a_{1}\)=1$
+* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $p \(r=-1 | s_{1},a_{1}\)=1$
 * reward depends on the  state and the action, but not the next state.
 * trajectory: a state-action-reward chain
 * return: the sum of all the rewards collected along the trajectory
