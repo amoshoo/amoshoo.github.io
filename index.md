@@ -6,7 +6,7 @@ profile_picture:
 ---
 ### BASIC INFO ABOUT ME
 <p>
-Welcome to my personal page! I'm Zhili Hu, a passionate statistics master's student at Renmin University of China in Beijing. Here, I will share my exciting journey in the fields of **artificial intelligence and robotics**.
+Welcome to my personal page! I'm Zhili Hu, a statistics master's student at Renmin University of China in Beijing. Here, I will share my exciting journey in the fields of **artificial intelligence** and **robotics**.
 </p>
 
 ### MY VIEW ABOUT AI AND ROBOTICS
