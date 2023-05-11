@@ -32,11 +32,14 @@ Features of RL:
 <br />
 Arrange suitable time for your study!
 <br />
+
 Brief Intro to History:
 * Story of Alpha GO
 * AlphaGo Zero vs AlphaGo
 * Deep Q Learning (Watkins)
 * More History...
+
+<br />
 <br />
 <br />
 
