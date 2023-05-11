@@ -49,7 +49,7 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 <br />
 
 ##### BASIC ELEMENTS
-* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S\quad=\quad\{s_{i}\}, i = 1,2,...,9$
+* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S = \{s_{i}\}, i = 1,2,...,9$
 * action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_{i}) = \{a_{i}\}$
 * state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $s_{1} \rightarrow s_{2}$
 * forbidden area: accessible (but with penalty); inaccessible
@@ -60,7 +60,7 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 * reward depends on the  state and the action, but not the next state.
 * trajectory: a state-action-reward chain
 * return: the sum of all the rewards collected along the trajectory
-* discounted return: after introduce the discounted rate $\gamma \in \[0,1\)$, we could prevent the return diverging. we could change the discount rate to make the policy favor the near future reward(small $\gamma$ or the far future reward(big $\gamma$)
+* discounted return: after introduce the discounted rate $\gamma \in \[0,1\)$, we could prevent the return diverging. we could change the discount rate to make the policy favor the near future reward(small $\gamma$） or the far future reward(big $\gamma$)
 * episode: when interacting with the environment following a policy, the agent may stop at some terminal states, the resulting trajectory is called an episode(or an trial). Some tasks may have no terminal states, meaning the interaction with environments will never end, such a task are called continuing tasks.
 
 <br />
