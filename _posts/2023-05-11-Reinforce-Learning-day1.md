@@ -22,8 +22,8 @@ Related book
 #### Table of Contents
 1. [Before Class](#before-class)
 2. [Basic Concepts](#basic-concepts)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
+    * [Basic Elements](#basic-elements)
+    * [Markov Decision PROCESS](#markov-decision-process)
 3. [Footnotes](#footnotes)
 
 #### BEFORE CLASS
@@ -46,18 +46,17 @@ Brief Intro to History
 #### BASIC CONCEPTS
 Here we first describe some basic concepts in reinforcement learning, take grid of cell as example, we need to find a good path from start to target.
 
-
 <br />
 
-##### PART 2 SUB PART 1
-* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S\quad = \quad \{s_i\}, i = 1,2,...,9$
-* action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_i) = \{a_i\}$
-* state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $s_1 \rightarrow\{a_{2}\} s_2$
+##### BASIC ELEMENTS
+* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $S\quad =\quad\{s_{i}\}, i = 1,2,...,9$
+* action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_{i}) = \{a_{i}\}$
+* state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $s_{1} \rightarrow s_{2}$
 * forbidden area: accessible (but with penalty); inaccessible
 * tabular representation: used to describe the state transition
-* state transition probability: $p\(s_2 | s_1, a_2\) = 1$
-* policy: policy tells the agent what actions to take at a state. e.g.$\pi \(a_1 | s_1\)=0$, which can be represented by tabular representation
-* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $p \(r=-1 | s_1, a_1\)=1$
+* state transition probability: $p\(s_{2} | s_{1}, a_{2}\) = 1$
+* policy: policy tells the agent what actions to take at a state. e.g.$\pi \(a_{1} | s_{1}\)=0$, which can be represented by tabular representation
+* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $p \(r=-1 | s_{1}, a_{1}\)=1$
 * reward depends on the  state and the action, but not the next state.
 * trajectory: a state-action-reward chain
 * return: the sum of all the rewards collected along the trajectory
@@ -66,11 +65,11 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 
 <br />
 
-##### PART 2 SUB PART 2
+##### MORKOV DECISION PROCESS
 Markov Decision Process(MDP), key element of MDP includes
 * Sets: the set of states, the set of action, the set of reward
 * probability distribution: state transition probability, reward probability
-* Policy: at state s, the probability to choose action $a$ is $ \pi \(a | s\)$
+* Policy: at state s, the probability to choose action $a$ is $\pi \(a | s\)$
 * Markov property: memoryless property
 
 <br />
