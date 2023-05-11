@@ -33,6 +33,7 @@ Features of RL:
 Arrange suitable time for your study!
 
 <br />
+
 Brief Intro to History:
 * Story of Alpha GO
 * AlphaGo Zero vs AlphaGo
