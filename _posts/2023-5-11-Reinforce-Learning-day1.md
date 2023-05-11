@@ -44,6 +44,7 @@ Brief Intro to History:
 <br />
 
 #### Basic Concepts
+Here we first describe some basic concepts in reinforcement learning
 <br />
 
 ##### PART 2 SUB PART 1
