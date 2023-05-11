@@ -26,7 +26,7 @@ Related book:
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
 
-#### Before Class
+#### BEFORE CLASS
 Features of RL:
 * More mathematical
 * Systematic
@@ -43,7 +43,7 @@ Brief Intro to History:
 <br />
 <br />
 
-#### Basic Concepts
+#### BASIC CONCEPTS
 Here we first describe some basic concepts in reinforcement learning
 
 <br />
