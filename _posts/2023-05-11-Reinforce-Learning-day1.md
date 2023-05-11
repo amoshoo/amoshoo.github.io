@@ -49,18 +49,18 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 <br />
 
 ##### BASIC ELEMENTS
-* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space `S = {s_i}, i = 1,2,...,9`
-* action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_{i}) = \{a_{i}\}$
+* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space $$S = \{s_{i}\}, i = 1,2,...,9$$
+* action: for each state, we have corresponding actions, all of actions consist of action space. $$A(s_{i}) = \{a_{i}\}$$
 * state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $$s_{1} \rightarrow s_{2}$$
 * forbidden area: accessible (but with penalty); inaccessible
 * tabular representation: used to describe the state transition
-* state transition probability: $p\(s_{2}|s_{1},a_{2}\) = 1$
-* policy: policy tells the agent what actions to take at a state. e.g. $\pi(a_{1}|s_{1})=0$, which can be represented by tabular representation
-* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $p \(r=-1 | s_{1},a_{1}\)=1$
+* state transition probability: $$p\(s_{2}|s_{1},a_{2}\) = 1$$
+* policy: policy tells the agent what actions to take at a state. e.g. $$\pi(a_{1}|s_{1})=0$$, which can be represented by tabular representation
+* reward: a real number we get after taking an action. Reward can be interpreted as a human-machine interface, with which we can guide the agent to behave as what we expect. we can use tabular representation to represent the reward. $$p \(r=-1 | s_{1},a_{1}\)=1$$
 * reward depends on the  state and the action, but not the next state.
 * trajectory: a state-action-reward chain
 * return: the sum of all the rewards collected along the trajectory
-* discounted return: after introduce the discounted rate $\gamma \in \[0,1\)$, we could prevent the return diverging. we could change the discount rate to make the policy favor the near future reward(small $\gamma$） or the far future reward(big $\gamma$)
+* discounted return: after introduce the discounted rate $$\gamma \in \[0,1\)$$, we could prevent the return diverging. we could change the discount rate to make the policy favor the near future reward(small $\gamma$） or the far future reward(big $$\gamma$$)
 * episode: when interacting with the environment following a policy, the agent may stop at some terminal states, the resulting trajectory is called an episode(or an trial). Some tasks may have no terminal states, meaning the interaction with environments will never end, such a task are called continuing tasks.
 
 <br />
@@ -69,7 +69,7 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 Markov Decision Process(MDP), key element of MDP includes
 * Sets: the set of states, the set of action, the set of reward
 * probability distribution: state transition probability, reward probability
-* Policy: at state s, the probability to choose action $a$ is $\pi \(a | s\)$
+* Policy: at state $$s$$, the probability to choose action $$a$$ is $$\pi \(a | s\)$$
 * Markov property: memoryless property
 
 <br />
