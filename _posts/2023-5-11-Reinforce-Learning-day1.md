@@ -10,7 +10,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-Day 1 for reinforce learning
+Day 1 for reinforce learning[^1]
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
 <br />
 
