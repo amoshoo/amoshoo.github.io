@@ -3,7 +3,7 @@ layout: work
 title: Experiences
 slug: /experiences
 items:
-  - title: Study in statistics in School of Statistics, Renmin University of China （Sept 2022-Now)
+  - title: Study in School of Statistics, Renmin University of China （Sept 2022-Now)
     image:
       src: /assets/img/work/water.png
       alt: water
