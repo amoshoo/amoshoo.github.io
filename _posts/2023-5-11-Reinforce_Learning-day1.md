@@ -18,8 +18,8 @@ Related book:
 1. Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018. (most classic, but not for layman)
 
 #### Table of Contents
-1. [Before Class](#part-1)
-2. [Basic Concepts](#part-2)
+1. [Before Class](#before-class)
+2. [Basic Concepts](#basic-concepts)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
