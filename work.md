@@ -7,12 +7,12 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: In constrate to Internet AI, embodied AI aims to 
+    description: There I started to learn more about AI 
   - title: Obtained bachelor of science in physics in Sun Yat-Sen University (Sept 2018-June 2022)
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+    description: There I had a great time to know more excellent people and do many interesting experiments
 ---
 
 In this work page, I will display some of my personal experiences, including education and work.
