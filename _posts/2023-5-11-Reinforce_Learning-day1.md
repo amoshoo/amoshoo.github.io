@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RL day1"
+title:  "Math foundation for RL day1"
 date:   2023-05-11 18:52
 blurb: "A study markdown for math foundation of reinforce learning, according to lecture by Prof. Shiyu Zhao, Westlake University"
 og_image: /assets/img/content/post-example/Banner.jpg
