@@ -49,7 +49,7 @@ Here we first describe some basic concepts in reinforcement learning, take grid 
 <br />
 
 ##### BASIC ELEMENTS
-* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space <span> `S = \{s_{i}\}, i = 1,2,...,9`</span>
+* state: the status of the agent with respect to the environment, in the above example, the location of the agent is the state. All of states consist of the state space <span> `S = {s_i}, i = 1,2,...,9`</span>
 * action: for each state, we have corresponding actions, all of actions consist of action space. $A(s_{i}) = \{a_{i}\}$
 * state transition: after taking an action, the agent may move from one state to another, which define the interaction with the environments. $s_{1} \rightarrow s_{2}$
 * forbidden area: accessible (but with penalty); inaccessible
