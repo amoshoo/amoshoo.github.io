@@ -26,7 +26,7 @@ Related book
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
 
-#### PART 1
+#### BEFORE CLASS
 Features of RL
 * More mathematical
 * Systematic
