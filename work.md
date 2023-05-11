@@ -1,8 +1,7 @@
 ---
 layout: work
 title: Experiences
-slug: /work
-### WORK
+slug: /experiences
 items:
   - title: My Interest 1
     image:
