@@ -10,8 +10,8 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-Day 1 for reinforce learning[^1]
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+Day 1 for reinforce learning[^1]
 
 Related book
 1. Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018. (most classic, but not for layman)
@@ -27,14 +27,14 @@ Related book
 3. [Footnotes](#footnotes)
 
 #### PART 1
-Features of RL:
+Features of RL
 * More mathematical
 * Systematic
 <br />
 
 Arrange suitable time for your study!
 
-Brief Intro to History:
+Brief Intro to History
 * Story of Alpha GO
 * AlphaGo Zero vs AlphaGo
 * Deep Q Learning (Watkins)
