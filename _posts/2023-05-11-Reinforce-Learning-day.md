@@ -20,21 +20,21 @@ Related book
 
 
 #### Table of Contents
-1. [Part 1](#part-1)
-2. [Part 2](#part-2)
+1. [Before Class](#before-class)
+2. [Basic Concepts](#basic-concepts)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
 
 #### PART 1
-Features of RL
+Features of RL:
 * More mathematical
 * Systematic
 <br />
 
 Arrange suitable time for your study!
 
-Brief Intro to History
+Brief Intro to History:
 * Story of Alpha GO
 * AlphaGo Zero vs AlphaGo
 * Deep Q Learning (Watkins)
@@ -43,7 +43,7 @@ Brief Intro to History
 <br />
 <br />
 
-#### PART 2
+#### BASIC CONCEPTS
 Here we first describe some basic concepts in reinforcement learning
 
 <br />
