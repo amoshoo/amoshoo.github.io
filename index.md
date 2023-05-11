@@ -6,7 +6,14 @@ profile_picture:
 ---
 
 <p>
- Welcome to my own page! I am Zhili Hu, a master student in Renmin University of China, This page will be used to record my growth in artificial intelligence learning. I would more than happy to meet you.
+Welcome to my personal page! I'm Zhili Hu, a passionate statistics master's student at Renmin University of China in Beijing. Here, I will share my exciting journey in the fields of artificial intelligence and robotics.
+</p>
+
+<p>
+Since my childhood, I have been captivated by the wonders of nature and the vastness of the universe. I would spend hours engrossed in documentaries about scientific discoveries, inventions, and the mysteries of the cosmos. It was this insatiable curiosity that initially led me to pursue a degree in physics during my undergraduate studies.
+However, as I delved deeper into my studies, I realized that artificial intelligence held immense potential to unravel the mysteries of the universe in ways that were previously unimaginable. Our human lives are inherently limited, but the universe is infinitely vast. To bridge this gap and expand our understanding of the unknown, I firmly believe that we need the assistance of AI, particularly embodied AI.
+Embodied AI has the power to extend our reach and enable us to explore the farthest reaches of the cosmos and delve into uncharted scientific territories. By combining the strengths of AI with our innate human creativity and curiosity, we can unlock groundbreaking discoveries and unlock the secrets of the universe.
+Join me on this exhilarating journey as I uncover the synergies between artificial intelligence, robotics, and our endless quest for knowledge. Together, we can push the boundaries of scientific exploration and pave the way for a future where human and AI collaboration opens up a universe of possibilities.
 </p>
 
 <p>
