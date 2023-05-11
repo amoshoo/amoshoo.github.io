@@ -9,7 +9,7 @@ profile_picture:
 Welcome to my personal page! I'm Zhili Hu, a statistics master's student at Renmin University of China in Beijing. Here, I will share my exciting journey in the fields of <strong>artificial intelligence</strong> and <strong>robotics</strong>.
 </p>
 
-### MY VIEW ABOUT AI AND ROBOTICS
+### WHY AI AND ROBOTICS
 <p>
 Since my childhood, I have been captivated by the wonders of nature and the vastness of the universe. I would spend hours engrossed in documentaries about scientific discoveries, inventions, and the mysteries of the cosmos. It was this insatiable curiosity that initially led me to pursue a degree in physics during my undergraduate studies.
 </p>
@@ -23,5 +23,5 @@ Join me on this exhilarating journey as I uncover the synergies between artifici
 
 ### ACKNOWLODGEMENT
 <p>
-  I would like sincerely appreciate the template provided by <a href="https://github.com/eliottvincent/bay">GitHub</a> and the correction from CHATGPT, they saved a lot of time for me!
+  I would like sincerely appreciate the template provided by <a href="https://github.com/eliottvincent/bay">GitHub</a> and the correction from Chatgpt, they saved a lot of time for me!
 </p>
