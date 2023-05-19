@@ -6,12 +6,18 @@ profile_picture:
 ---
 ### BASIC INFO ABOUT ME
 <p>
+  
+  <font size="4">
 Welcome to my personal page! I'm Zhili Hu, a statistics master's student at Renmin University of China in Beijing. Before that, I received my bachelor degree of physics in Sun Yat-Sen University in Zhuhai, Guangdong Province. Here, I will share my exciting journey in the fields of <strong>embodied AI</strong> and <strong>robotics</strong>.
+   </font>
+ 
 </p>
 
 ### WHY AI AND ROBOTICS
 <p>
+  <font size="6">
 Since my childhood, I have been captivated by the wonders of nature and the vastness of the universe. I would spend hours engrossed in documentaries about scientific discoveries, inventions, and the mysteries of the cosmos and I wished I could create something new one day since then. It was this insatiable curiosity that initially led me to pursue a degree in physics during my undergraduate studies.
+  </font>
 </p>
 <p>
 However, as I delved deeper into my studies, I realized that artificial intelligence held immense potential to unravel the mysteries of the universe and shape our world in ways that were previously unimaginable. Our human lives are inherently limited, but the universe is infinitely vast. To bridge this gap and expand our understanding of the unknown, I firmly believe that we need the assistance of AI, particularly embodied AI.
