@@ -6,7 +6,7 @@ profile_picture:
 ---
 ### BASIC INFO ABOUT ME
 <p>
-Welcome to my personal page! I'm Zhili Hu, a statistics master's student at Renmin University of China in Beijing. Before that, I received my bachelor degree of physics in Sun Yat-Sen University of China. Here, I will share my exciting journey in the fields of <strong>embodied AI</strong> and <strong>robotics</strong>.
+Welcome to my personal page! I'm Zhili Hu, a statistics master's student at Renmin University of China in Beijing. Before that, I received my bachelor degree of physics in Sun Yat-Sen University in Zhuhai, Guangdong Province. Here, I will share my exciting journey in the fields of <strong>embodied AI</strong> and <strong>robotics</strong>.
 </p>
 
 ### WHY AI AND ROBOTICS
