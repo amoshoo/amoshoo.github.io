@@ -27,10 +27,10 @@ footer:
       link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
+      link: https://twitter.com/amoshoo1
       username: "@YourTwitterUsername"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://www.facebook.com/profile.php?id=100084497827706
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
