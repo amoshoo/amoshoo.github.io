@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-In this "Blog" page, I will try to post some study blogs in certain frequency (continuing......)
+<font size="3">In this "Blog" page, I will post some study blogs and share some study materials (continuing......)</font>
 <br />
