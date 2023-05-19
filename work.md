@@ -1,6 +1,6 @@
 ---
 layout: work
-title: <font size="4">Experiences</font>
+title: Experiences
 slug: /experiences
 items:
   - title: <font size="3">Study in School of Statistics, Renmin University of China （Sept 2022-Now)</font>
